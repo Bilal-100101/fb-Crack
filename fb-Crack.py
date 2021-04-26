@@ -47,24 +47,20 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ 
-┏━━━━•❅•°•❈ - •❅•°•❈━━━━┓
-       ♥️NADEEM-HACKER♥️
-┗━━━━•❅•°•❈ - •❅•°•❈━━━━┛
-┏━━━━━•❅•°•❈ - •❅•°•❈━━━━━━┓
-        💛NADEEM-CRACKER💛
-┗━━━━━━•❅•°•❈ - •❅•°•❈━━━━━┛
-┏━━━━━━━•❅•°•❈ - •❅•°•❈━━━━━━━┓
-                ♥️NADEEM-CODDER♥️
-┗━━━━━━━•❅•°•❈ - •❅•°•❈━━━━━━━┛
-\033[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-\033[1;92mAUTHER :- NADEEM-HACKER
-\033[1;93mWHATSAPP :- +92 355 8038021
-\033[1;94mFROM :- AZAD KASHMIR
-\033[1;95mAGE :- 17
-\033[1;96mTOOL CREATED BY :- NADEEM
-\033[1;97mUSE :- FAST INTERNET CONNECTION
-\033[1;98m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
+logo = """ -----------------------------•◈•
+(  __)\\ ____--------------_------------•◈•
+|__(~)    •||•NADEEM------•◈•
+|__\~~) •||•HACKER--------------•◈•
+|__(-----\  •◈•------BOSS---------•◈•
+|__~~~\ •◈•-----█-------⑦-------█------•◈•
+|__~~~\ •◈•-----█-------⑧-------█------•◈•
+|__~~~\ •◈•-----█-------⑥-------█------•◈•
+\033[1;91m=======================================
+\033[1;96mAuthor  NADEEM
+\033[1;96mInstagram NO USING
+\033[1;96mFacebook  MUHAMMAD NADEEM GUJJAR
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Bilal-100101
+\033[1;91m======================================="""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -84,19 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-\033[1;92mAUTHER :- NADEEM-HACKER
-\033[1;93mWHATSAPP :- +92 355 8038021
-\033[1;94mFROM :- AZAD KASHMIR
-\033[1;95mAGE :- 17
-\033[1;96mTOOL CREATED BY :- NADEEM
-\033[1;97mUSE :- FAST INTERNET CONNECTION
-\033[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
+\033[1;96mAuthor  MUHAMMAD NADEEM GUJJAR
+\033[1;96mInstagram NO USING
+\033[1;96mFacebook  MUHAMMAD NADEEM GUJJAR
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Bilal-100101
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "NADEEM"
-CorrectPassword = "GUJJAR"
+CorrectUsername = "N4D33M"
+CorrectPassword = "N4D33M"
 
 loop = 'true'
 while (loop == 'true'):
